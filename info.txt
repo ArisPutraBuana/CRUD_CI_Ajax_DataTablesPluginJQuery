@@ -1,0 +1,11 @@
+
+CRUD_CI_Ajax_DataTables(Plugin_JQuery)
+
+CRUD dengan Ajax dan datatable (plugin JQuery) menggunakan codeigniter
+
+
+
+CRUD dengan Ajax dan datatable (plugin JQuery) menggunakan codeigniter ini, 
+saya menggunakan Modal BOOTSTRAP sebagai penampung form. 
+Modal BOOTSTRAP memungkin kita membuat aplikasi CRUD (Create Read Update Delete) hanya dalam satu halaman saja. Sebelum munculnya modal bootstrap, untuk membuat aplikasi CRUD memerlukan beberapa halaman. 
+Yaitu halaman untuk menampilkan data dari database, halaman form add & form edit.
